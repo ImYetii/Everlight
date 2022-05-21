@@ -1,0 +1,2 @@
+# Everlight
+My Discord bot.
