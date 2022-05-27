@@ -50,4 +50,4 @@ client.on('messageCreate', async message =>
     }
 });
 
-client.login('OTc2NTU4MDI0OTk3MDg5MzYx.GU4380.VLBsuCJdbG6gZfoDmdjE3ynJq3IF8nzFq3-flw');
+client.login('YOUR_BOT_TOKEN_HERE');
