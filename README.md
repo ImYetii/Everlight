@@ -6,4 +6,4 @@ send funny jokes/pranks,
 and more.
 
 # Authors
-LiberskiEryk(Discord: @LiberskiEryk#7963)
+LiberskiEryk(Discord: @LiberskiEryk#1333)
